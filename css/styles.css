@@ -1,0 +1,131 @@
+body{
+  margin: 0;
+  text-align: center;
+  font-family: 'Merriweather', serif;
+}
+
+
+h1{
+    color: #11999E;
+  font-size: 5.62em;
+  line-height: 2;
+  margin top: 50px;
+  font-family: cursive;;
+}
+h2 {
+  color: #66BFBF;
+font-family: 'Montserrat',sans-serif;
+font-size: 2.25em;
+}
+h3 {
+  font-weight: normal;
+    color: #66BFBF;
+  font-family: 'Montserrat',sans-serif;
+  font-size: 2.25em;
+}
+
+h4 {
+    color: #66BFBF;
+  font-family: 'Montserrat',sans-serif;
+  font-size: 2.25em;
+  font-weight: normal;
+}
+hr {
+  border: dotted #EAF6F6  6px;
+  border-bottom: none;
+  width: 2%;
+}
+.easy {
+  background-color:  #b9fffc;
+}
+
+}
+.top-container {
+    background-color: #E4F9F5;
+    position: relative;
+    padding-top: 100px;
+}
+.top-cloud {
+    position:absolute;
+    left:250px;
+    top: 200px;
+    height: 150px;
+}
+.bottom-cloud {
+  width: 200px;
+  height: 250px;
+}
+a {
+color:  #11999E;
+font-family: 'Montserrat',sans-serif;
+margin: 5px 5px;
+text-decoration: none;
+}
+a:hover {
+  color: #EAF6F6;
+}
+.me {
+  color: #E4F9F5;
+  font-size: 0.75rem;
+  padding: 20px 0;
+}
+.middle-container {
+margin: 100px 0;
+}
+.bottom-container {
+  background-color: #66BFBF;
+  padding: 50px 0 20px;
+
+}
+.pro {
+  text-decoration: underline;
+}
+.intro{
+  width: 30%;
+  margin: auto;
+}
+.trial{
+  width: 30%;
+  margin: auto;
+}
+.interest{
+  width: 30%;
+  margin: auto;
+}
+img{ display: inline-block;
+height: 200px;
+}
+hr {
+borderstyle: none
+border-top-style: dotted;
+border-width:
+border-width:4px;
+width: 50%;
+}
+
+.myButton {
+	box-shadow:inset 0px 1px 0px 0px #bbdaf7;
+	background:linear-gradient(to bottom, #79bbff 5%, #378de5 100%);
+	background-color:#79bbff;
+	border-radius:6px;
+	border:1px solid #84bbf3;
+	display:inline-block;
+	cursor:pointer;
+	color:#ffffff;
+	font-family:Arial;
+	font-size:15px;
+	font-weight:bold;
+	padding:6px 24px;
+	text-decoration:none;
+	text-shadow:0px 1px 0px #528ecc;
+}
+.myButton:hover {
+	background:linear-gradient(to bottom, #378de5 5%, #79bbff 100%);
+	background-color:#378de5;
+}
+.myButton:active {
+	position:relative;
+	top:1px;
+}
+}
+body
